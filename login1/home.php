@@ -631,12 +631,12 @@
                </div>
                <div class="address-gried mt-3">
                   <span class="fas fa-phone-volume"></span>
-                  <p> +(000)123 4565<br>+(010)123 4565</p>
+                  <p> +(84)329138452<br></p>
                </div>
                <div class=" address-gried mt-3">
                   <span class="far fa-envelope"></span>
-                  <p><a href="mailto:info@example.com">info@example1.com</a>
-                     <br><a href="mailto:info@example.com">info@example2.com</a>
+                  <p><a href="mailto:tranhuy21102000@gmail.com">tranhuy21102000@gmail.com</a>
+                     <br><a href="mailto:huytqbaf180126@fpt.edu.vn">huytqbaf180126@fpt.edu.vn</a>
                   </p>
                </div>
             </div>
@@ -677,7 +677,7 @@
       <footer class="py-lg-4 py-md-3 py-sm-3 py-3 text-center">
          <div class="copy-agile-right">
             <p> 
-               © 2018 Toys-Shop. All Rights Reserved | Design by <a href="http://www.W3Layouts.com" target="_blank">W3Layouts</a>
+               © 2020 Toys-Shop. All Rights Reserved | Design by <a href="fb.com/lover2110" target="_blank">W3Layouts</a>
             </p>
          </div>
       </footer>
